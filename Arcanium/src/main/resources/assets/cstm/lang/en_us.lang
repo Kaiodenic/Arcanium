@@ -1,0 +1,9 @@
+item.crystal.name=Crystal
+item.item_wand_basic.name=Basic Wand
+tile.block_salt_green.name=Block of Green Salt
+tile.block_salt_red.name=Block of Red Salt
+tile.block_salt_grey.name=Block of Grey Salt
+tile.block_salt_white.name=Block of White Salt
+tile.block_crystal.name=Crystal
+tile.block_way_crystal.name=Way Crystal
+tile.block_crystal_placer.name=Wayfinder Staff

@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "front": "cstm:blocks/block_salt_red",
+        "side": "cstm:blocks/block_salt_green",
+        "top": "cstm:blocks/block_salt_green"
+    }
+}
